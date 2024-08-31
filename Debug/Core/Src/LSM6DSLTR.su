@@ -1,0 +1,8 @@
+../Core/Src/LSM6DSLTR.c:25:6:LSM6DSLTR_Init	32	static
+../Core/Src/LSM6DSLTR.c:51:6:LSM6DSLTR_Read_Accel_Data	40	static
+../Core/Src/LSM6DSLTR.c:89:6:LSM6DSLTR_Read_Gyro_Data	40	static
+../Core/Src/LSM6DSLTR.c:125:5:IS_MPU_READY	8	static
+../Core/Src/LSM6DSLTR.c:132:6:calculate_roll_pitch	24	static
+../Core/Src/LSM6DSLTR.c:137:6:update_angles	24	static
+../Core/Src/LSM6DSLTR.c:155:6:calculate_gravity_normal	40	static
+../Core/Src/LSM6DSLTR.c:176:6:update_angles_and_gravity	16	static
